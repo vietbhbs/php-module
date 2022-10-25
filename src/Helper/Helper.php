@@ -1,13 +1,13 @@
 <?php
 
-namespace nguyenanhung\Backend\Your_Project\Helper;
+namespace nguyenanhung\Backend\vietbhbs_module\Helper;
 
 use nguyenanhung\Classes\Helper\Common;
 
 /**
  * Class Helper
  *
- * @package   nguyenanhung\Backend\Your_Project\Helper
+ * @package   nguyenanhung\Backend\vietbhbs_module\Helper
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

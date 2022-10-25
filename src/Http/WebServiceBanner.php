@@ -1,28 +1,19 @@
 <?php
-/**
- * Project template-backend-package
- * Created by PhpStorm
- * User: 713uk13m <dev@nguyenanhung.com>
- * Copyright: 713uk13m <dev@nguyenanhung.com>
- * Date: 02/07/2022
- * Time: 00:38
- */
 
-namespace nguyenanhung\Backend\vietbhbs_module\JWT;
-
-use nguyenanhung\Backend\vietbhbs_module\Base\BaseCore;
+namespace nguyenanhung\Backend\vietbhbs_module\Http;
 
 /**
- * Class BaseJWT
+ * Class WebServiceBanner
  *
- * @package   nguyenanhung\Backend\vietbhbs_module\JWT
+ * @package   nguyenanhung\Backend\vietbhbs_module\Http
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */
-class BaseJWT extends BaseCore
+
+class WebServiceBanner extends BaseHttp
 {
     /**
-     * BaseJWT constructor.
+     * WebServiceBanner constructor.
      *
      * @param array $options
      *
@@ -34,4 +25,11 @@ class BaseJWT extends BaseCore
         parent::__construct($options);
         $this->logger->setLoggerSubPath(__CLASS__);
     }
+
+//    public function list(): WebServiceBanner
+//    {
+//        $data = [
+//
+//        ]
+//    }
 }

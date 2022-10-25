@@ -1,15 +1,15 @@
 <?php
 
-namespace nguyenanhung\Backend\Your_Project\Database;
+namespace nguyenanhung\Backend\vietbhbs_module\Database;
 
-use nguyenanhung\Backend\Your_Project\Base\BaseCore;
-use nguyenanhung\Backend\Your_Project\Database\Traits\SignatureTable;
+use nguyenanhung\Backend\vietbhbs_module\Base\BaseCore;
+use nguyenanhung\Backend\vietbhbs_module\Database\Traits\SignatureTable;
 use nguyenanhung\MyDatabase\Model\BaseModel;
 
 /**
  * Class Database
  *
- * @package   nguyenanhung\Backend\Your_Project\Database
+ * @package   nguyenanhung\Backend\vietbhbs_module\Database
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

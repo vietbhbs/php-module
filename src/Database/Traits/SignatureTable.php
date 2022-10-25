@@ -1,11 +1,11 @@
 <?php
 
-namespace nguyenanhung\Backend\Your_Project\Database\Traits;
+namespace nguyenanhung\Backend\vietbhbs_module\Database\Traits;
 
 /**
  * Trait SignatureTable
  *
- * @package   nguyenanhung\Backend\Your_Project\Database\Traits
+ * @package   nguyenanhung\Backend\vietbhbs_module\Database\Traits
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

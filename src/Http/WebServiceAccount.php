@@ -1,11 +1,11 @@
 <?php
 
-namespace nguyenanhung\Backend\Your_Project\Http;
+namespace nguyenanhung\Backend\vietbhbs_module\Http;
 
 /**
  * Class WebServiceAccount
  *
- * @package   nguyenanhung\Backend\Your_Project\Http
+ * @package   nguyenanhung\Backend\vietbhbs_module\Http
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

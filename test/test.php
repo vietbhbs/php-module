@@ -13,7 +13,7 @@ $config = [
         'driver'    => 'mysql',
         'host'      => 'mariadb',
         'username'  => 'root',
-        'password'  => 'hungna',
+        'password'  => '1',
         'database'  => 'docker_database',
         'port'      => 3306,
         'prefix'    => '',
@@ -34,7 +34,7 @@ $config = [
     ]
 ];
 
-use nguyenanhung\Backend\Your_Project\Http\WebServiceAccount;
+use nguyenanhung\Backend\vietbhbs_module\Http\WebServiceAccount;
 
 $inputData = [
     'start_date' => '2022-06-01',
